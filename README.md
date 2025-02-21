@@ -25,6 +25,4 @@ This project predicts fuel consumption (in liters per 100 km) for cars based on 
 ## How to run
 1. Install the libraries: `pip install numpy pandas matplotlib scikit-learn`.
 2. Download the dataset or use the URL
-3. Run `python fuel_prediction.py`.
-
-Translated with DeepL.com (free version)
+3. Run `fuel_prediction.py`.
