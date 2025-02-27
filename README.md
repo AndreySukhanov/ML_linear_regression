@@ -1,4 +1,5 @@
-# ML_linear_regression
+# ML_linear_regression: Fuel prediction
+
 ## Predicting fuel consumption based on machine power and weight
 
 ## Description
