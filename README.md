@@ -15,7 +15,7 @@ This project predicts fuel consumption (in liters per 100 km) for cars based on 
 - Error (MSE): 5-10
 
 ## Visualization
-- Graph: fuel consumption vs power
+- [Graph: fuel consumption vs power](https://github.com/AndreySukhanov/ML_linear_regression/blob/61aebb97ffaf013154eab7c04590e09d2f453993/plot_horsepower.png)
 - [Histogram: fuel consumption distribution](https://github.com/AndreySukhanov/ML_linear_regression/blob/61aebb97ffaf013154eab7c04590e09d2f453993/plot_horsepower.png)
 - [Graph: fuel consumption vs weight](https://github.com/AndreySukhanov/ML_linear_regression/blob/d46f4bc2a21d5490df65beb0b31d66b228819267/plot_weight.png)
 
